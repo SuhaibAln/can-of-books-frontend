@@ -1,11 +1,36 @@
-# Start your own "Can of Books" App
+# Can of Books
+**Author**: SUHAIB ALNAJI
+**Version**: 1.0.0
 
-This repository has starter code to begin work on creating your own online bookshelf.
+## Overview
+Books help children and adults to open up, to move beyond self-absorption and connect to other people. Books show us the inner workings of multiple perspectives and let us know there is more than one way to view the world.
 
-## What can books do?
+# Getting Started
+1. Imported the template from starter
+2. Installed Auth0 using npm
+3. Created different components
+4. Copied code from Auth0 to components
+5. Modified a few lines in User.js file
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Architecture
+- React JS
+- CSS
+- Bootstrap
+- Auth0
+- React Router
+- Netlify
 
-## Use this template
+## Change Log
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+08-08-2022 2:00pm - Application now has a login and a logout buttons with some user information when logged in.
+
+## Estimates
+```
+Name of feature: Creating an APP, adding authentication feature.
+Estimate of time needed to complete: 1 hour
+Start time: 7:00pm
+Finish time: 8:00pm
+Actual time needed to complete: 30 mins
+```
+
+## Credit and Collaborations
